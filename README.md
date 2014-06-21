@@ -1,4 +1,4 @@
-testrepo
+test-repo
 ========
 
 Test repo
